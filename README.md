@@ -1,2 +1,3 @@
 # SistemaArnock
-Practica02
+agregue el primer
+01
